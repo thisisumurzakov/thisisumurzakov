@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🗽 English level: C1
 - 🎯 IELTS score: 7.5
-- ⚡️ Fun fact: I love to read and travel ✈️
+- ⚡️ Motto: Live and learn!!!
 
 ### Connect with me:
 
