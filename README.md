@@ -1,10 +1,10 @@
 ### Hi there, I'm Umurzakov 👋
 
-## I'm a Student at RTU and Backend Developer👨‍💻!!!
+## I'm a Student at RTU👨‍🎓 and Backend Developer👨‍💻!!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🗽 English level: C1
-- 📌 IELTS score: 7.5
+- 🎯 IELTS score: 7.5
 - ⚡️ Fun fact: I love to read and travel ✈️
 
 ### Connect with me:
