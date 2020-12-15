@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/thisisumurzakov)
-[<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />](zakakilov@gmail.com)
+[<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" />](zakakilov@gmail.com)
 <br />
 
 ### Languages and Tools:
