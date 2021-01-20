@@ -2,9 +2,7 @@
 
 ## I'm a Student at RTU👨‍🎓 and Backend Developer👨‍💻!!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🗽 English level: C1
-- 🎯 IELTS score: 7.5
+- 🌱 I’m currently learning everything
 - ⚡️ Motto: Live and learn!!!
 
 ### Connect with me:
