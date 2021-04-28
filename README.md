@@ -25,7 +25,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="thisisumurzakov" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lv.linkedin.com/in/thisisumurzakov?trk=profile-badge">Akbarbek Umurzakov</a></div>
+              
 ---
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thisisumurzakov&show_icons=true&theme=radical)
