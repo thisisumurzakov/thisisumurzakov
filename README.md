@@ -2,7 +2,6 @@
 
 ## I'm a Student at RTU👨‍🎓 and Backend Developer👨‍💻!!!
 
-- 🌱 I’m currently learning everything
 - ⚡️ Motto: Live and learn!!!
 
 ### Connect with me:
