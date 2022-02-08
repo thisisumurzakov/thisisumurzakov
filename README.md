@@ -1,6 +1,6 @@
 ### Hi there, I'm Umurzakov 👋
 
-## I'm a Student at RTU👨‍🎓 and Backend Developer👨‍💻!!!
+## I'm a Backend Developer👨‍💻!!!
 
 - ⚡️ Motto: Live and learn!!!
 
